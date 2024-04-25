@@ -1,0 +1,20 @@
+Marketing research involves concepts like Churn and Customer Satisfaction 
+
+1)Give probability of gender male in gender column. Write the answer as a percentage 
+2)Give probability of gender female in gender column. Write the answer as a percentage
+3)Give Churn probability in data.
+4)Give descriptive stats for average order value
+5)Calculate in which region we have the maximum order and in which region we have the minimum order?
+Which region has the Maximum  and MinimumOrder?
+6)Analyse which category has the highest order and lowest order.
+Which category has the highest and lowest order frequency?
+7)Find out which category has the highest satisfaction scores and which category has the lowest.
+Which category has the highest  and lowest satisfaction score?
+8)Find out which category and region has a high churning rate and which has a low.
+Which category has the highest  and lowest churning rate?
+9)Analyse in which Gender we have a High Churning rate.
+
+10)Find out for each region which category of product has a high churning rate.
+11)Plot the graph for Category wise Churn Rate. From the graph tell us which category has the highest churning rate and how much.
+12)Plot the graph for Region wise Churning Rate. From the graph tell us which region has the highest churning rate and how much.
+13)Plot the graph for the Gender wise Churning Rate. From the graph tell us which gender has the lowest churning rate and how much.
